@@ -1,3 +1,0 @@
-cat pdtest
-cat testfile.txt
-git add testfile.txt
